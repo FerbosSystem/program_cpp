@@ -1,0 +1,17 @@
+# .gitignore（program_cpp/.gitignore）
+
+# ビルドや実行ファイル系を除外
+build/
+*.o
+*.out
+*.exe
+
+# IDEやエディタ関連の除外
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# その他
+*.log
+
