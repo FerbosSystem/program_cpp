@@ -5,6 +5,7 @@ build/
 *.o
 *.out
 *.exe
+*~
 
 # IDEやエディタ関連の除外
 .vscode/
